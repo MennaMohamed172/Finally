@@ -28,13 +28,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mennaohamed/project-nodejs.git"
+    "url": "git+https://github.com/mennaohamed/Finall.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mennaohamed/project-nodejs/issues"
+    "url": "https://github.com/mennaohamed/Finall/issues"
   },
-  "homepage": "https://github.com/mennaohamed/project-nodejs#readme"
+  "homepage": "https://github.com/mennaohamed/Finall#readme"
 }
