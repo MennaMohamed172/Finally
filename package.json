@@ -28,13 +28,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mennaohamed/Finall.git"
+    "url": "git+https://github.com/mennaohamed/Finally.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mennaohamed/Finall/issues"
+    "url": "https://github.com/mennaohamed/Finally/issues"
   },
-  "homepage": "https://github.com/mennaohamed/Finall#readme"
+  "homepage": "https://github.com/mennaohamed/Finally#readme"
 }
